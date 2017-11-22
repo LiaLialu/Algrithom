@@ -1,2 +1,2 @@
 # Algrithom
-link with eclipse
+for leetcode
